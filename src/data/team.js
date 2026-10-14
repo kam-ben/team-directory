@@ -67,6 +67,69 @@ export const team = [{
     location: "Benin City, Nigeria",
     email: "sophia.martinez@example.com",
     avatar: "bg-pink-700"
+},
+
+{
+    id:9,
+    name: "William Lee",
+    role: "Cloud Architect",
+    location: "Kaduna, Nigeria",
+    email: "william.lee@example.com",
+    avatar: "bg-teal-700"
+},
+
+{
+    id:10,
+    name: "Ava Harris",
+    role: "Cybersecurity Specialist",
+    location: "Abeokuta, Nigeria",
+    email: "ava.harris@example.com",
+    avatar: "bg-lime-700"
+},
+
+{
+    id:11,
+    name: "Benjamin Clark",
+    role: "Blockchain Developer",
+    location: "Calabar, Nigeria",
+    email: "benjamin.clark@example.com",
+    avatar: "bg-rose-700"
+},
+
+{
+    id:12,
+    name: "Mia Lewis",
+    role: "Game Developer",
+    location: "Uyo, Nigeria",
+    email: "mia.lewis@example.com",
+    avatar: "bg-cyan-700"   
+},
+
+{
+    id:13,
+    name: "Ethan Walker",
+    role: "AI Researcher",
+    location: "Warri, Nigeria",
+    email: "ethan.walker@example.com",
+    avatar: "bg-blue-700"
+},
+
+{
+    id:14,
+    name: "Isabella Hall",
+    role: "Robotics Engineer",
+    location: "Sokoto, Nigeria",
+    email: "isabella.hall@example.com",
+    avatar: "bg-green-700"
+},
+
+{
+    id:15,
+    name: "Alexander Allen",
+    role: "Augmented Reality Developer",
+    location: "Makurdi, Nigeria",
+    email: "alexander.allen@example.com",
+    avatar: "bg-yellow-700"
 }
 
 ]
